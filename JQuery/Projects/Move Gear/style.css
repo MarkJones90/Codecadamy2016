@@ -38,6 +38,7 @@ body {
   padding: 10px;
   text-transform: uppercase;
   cursor: pointer;
+  text-align: right;
 }
 
 .header .col-md-3, .header .pull-right { 
